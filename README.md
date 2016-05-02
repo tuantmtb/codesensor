@@ -3,7 +3,7 @@ ANTLR 3 fuzzy parser
 
 Rewrite by tuantmtb
 
-### Command: $ java -jar CodeSensor.jar <filename.cpp>
+### Command: $ java -jar CodeSensor.jar filename.cpp
 
 ![Result Output](https://i.imgur.com/aPC7EmY.png)
 
